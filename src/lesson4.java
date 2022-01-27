@@ -22,12 +22,13 @@ public class lesson4 {
         for (int item : array) {
             System.out.println(item);
         }
+          DoubleArray sample = new DoubleArray();
+        sample.main();
 
-
-            }
-        }
+    }
+}
 class DoubleArray {
-    public static void main(String[] args) {
+    public static void main() {
         int[][] darray = new int[8][8];
         darray[0][0] = 5;
         darray[0][1] = 55;
