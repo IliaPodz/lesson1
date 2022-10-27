@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 public class Company {
@@ -13,7 +14,7 @@ public class Company {
         person.nameOfСompany = name;
         person.salary = 40;
         System.out.println("Сотрудник " + person.name + " принят на работу!");
-        
+
     }
 
     public void delete(Person person) {
@@ -30,6 +31,9 @@ public class Company {
 
     }
 }
+
+
+
 
 
 

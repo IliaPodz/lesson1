@@ -1,5 +1,3 @@
-
-
 public class Person {
     String name;//имя
     int age;// возраст
@@ -32,4 +30,3 @@ public class Person {
     }
 
 }
-
